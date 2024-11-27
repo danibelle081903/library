@@ -12,3 +12,9 @@ A lightweight API for managing users, authors, books, and authentication using P
 - PHP 7.4 or higher
 - Composer
 - MySQL
+
+## Installation
+1. Clone the Repository
+''bash
+git clone https://github.com/danibelle081903/library.git
+cd library-management-api
