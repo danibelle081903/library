@@ -1,2 +1,9 @@
 # Library Management API
 A lightweight API for managing users, authors, books, and authentication using PHP and the Slim framework. It features secure JSON Web Token (JWT) authentication and token management for streamlined operations.
+
+## Features
+- **User Management:** Register, Authenticate, Show, Update, Delete
+- **Author Management:** Register, Show, Update, Delete
+- **Book Management:** Register, Show, Update, Delete
+- **Books Authors Management:** Register, Show, Update, Delete
+- **Token Management:** Generate, Validate, Mark as Used
