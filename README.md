@@ -8,7 +8,7 @@ A lightweight API for managing users, authors, books, and authentication using P
 - **Books Authors Management:** Register, Show, Update, Delete
 - **Token Management:** Generate, Validate, Mark as Used
 
-##Prerequisites
+## Prerequisites
 - PHP 7.4 or higher
 - Composer
 - MySQL
